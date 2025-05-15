@@ -8,17 +8,17 @@
         "other": true,
         "hentai": true,
         "troll": false,
-        "economy" : false
+        "economy" : true
     },
     "categories": {
         "media": true,
         "basic": true,
         "utility": true,
         "moderation": true,
-        "core" :false,
+        "core" : true,
         "lavalink": true,
-        "fun": false,
+        "fun": true,
         "distube": true,
-        "setups": false
+        "setups": true
     }
 }
