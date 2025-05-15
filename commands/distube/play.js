@@ -4,7 +4,7 @@ const lang = require('../../events/loadLanguage');
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('Muie')
+        .setName('DPlay')
         .setDescription(lang.playDescription)
         .addStringOption(option =>
             option.setName('input')
