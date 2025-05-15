@@ -1,24 +1,24 @@
 {
-    "token": "",
+    "token": "MTM2NzE5NDc4MjUxNzk1MjU0Mw.GQdvWa.cJSMQth_5iwecTk5Tu59FXizPkZGhp_-Uwclvs",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "/",
+    "mongodbUri": "mongodb+srv://dragosbosu123:dragosbosu123@allinone.3n4xmml.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
         "hentai": true,
-        "troll": true,
-        "economy" : true
+        "troll": false,
+        "economy" : false
     },
     "categories": {
         "media": true,
         "basic": true,
         "utility": true,
         "moderation": true,
-        "core" :true,
+        "core" :false,
         "lavalink": true,
-        "fun": true,
+        "fun": false,
         "distube": true,
-        "setups": true
+        "setups": false
     }
 }
