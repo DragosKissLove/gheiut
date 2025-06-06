@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-        name: "GlaceYT",
-        password: "wwweasycodero",
-        host: "lavalink-v2.pericsq.ro",
-        port:  6677,
+        name: "Anakin",
+        password: "anakin",
+        host: "us.apsara.lol",
+        port:  25575,
         secure: false
     }
 };
