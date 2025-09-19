@@ -1,10 +1,10 @@
 module.exports = {
     enabled: true, 
     lavalink: {
-        name: "Anakin",
-        password: "anakin",
-        host: "us.apsara.lol",
-        port:  25575,
+        name: "GlaceYT",
+        password: "glace",
+        host: "5.39.63.207",
+        port:  8262,
         secure: false
     }
 };
