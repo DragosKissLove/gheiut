@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "/",
-    "mongodbUri": "mongodb+srv://dragosbosu123:<dragosbosu123>@allinone.3n4xmml.mongodb.net/?retryWrites=true&w=majority&appName=allinone",
+    "mongodbUri": "mongodb+srv://dragosbosu123:<dragosbosu123>@allinone.3n4xmml.mongodb.net/?retryWrites=true&w=majority",
     "excessCommands": {
         "utility": true,
         "other": true,
